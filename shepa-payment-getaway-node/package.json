@@ -1,0 +1,41 @@
+{
+  "_from": "shepa-payment-getaway",
+  "_id": "shepa-payment-getaway@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-wThSqPNAb/4ZQo6RZVmlOXh5UlAo1f4mSUNSNdEB40pbl5zAETUKeK02cJ+sBxER+xYPQlQtzM5ZNG0gnswNfA==",
+  "_location": "/shepa-payment-getaway",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "shepa-payment-getaway",
+    "name": "shepa-payment-getaway",
+    "escapedName": "shepa-payment-getaway",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/shepa-payment-getaway/-/shepa-payment-getaway-1.0.1.tgz",
+  "_shasum": "85c6e9e70440514cf2d47cfce1b1dbbdf2ddda70",
+  "_spec": "shepa-payment-getaway",
+  "_where": "E:\\iranicard\\shepa\\shepa-modules",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "express": "github:expressjs/express",
+    "request": "^2.88.0"
+  },
+  "deprecated": false,
+  "description": "A lightwight Node.js package for connect to Shepa.com REST Api",
+  "license": "ISC",
+  "main": "shepa.js",
+  "name": "shepa-payment-getaway",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
